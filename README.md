@@ -25,9 +25,7 @@ visuals representing total orders by customer name, gender, income level, occupa
 
 The filters are applied to all report pages, you can interact with content.
 
-                               (click to start demo)
-
+<sub>(click to start demo)</sub>
 ![This is an image](https://github.com/KaterIva/Adventure_Report_PBI/blob/master/adventureWorksDemo.gif?raw=true)
-
 
 <sup>*Based on the course “Microsoft Power BI Desktop for Business Intelligence” by Maven Analytics, Chris Dutton*</sup>
