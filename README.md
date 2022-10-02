@@ -1,4 +1,4 @@
-### AdventureWorks Report
+### Adventure Works Report
 consists of visuals, that represent different findings 
 and insights from the dataset. 
 
@@ -15,7 +15,7 @@ the relationship model screenshot below:
 The report consists of three tabs: 
 - `Exec Summary` - eleven different visuals and 
 two bookmarks, you can filter content by date using the slicer on the top and drill through treemap 
-“Total Orders by Category”, explore product subcategories, return rate, monthly revenue, monthly orders 
+`Total Orders by Category`, explore product subcategories, return rate, monthly revenue, monthly orders 
 and returns
 - `Product Details` - nine different visuals, here you can see current 
 month orders, Revenue and Returns vs. Target by every product, Weekly Profit Forecast based on price 
