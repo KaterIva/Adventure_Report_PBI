@@ -7,7 +7,7 @@ It is based on data from CSV tables: `AW_Calendar_ Lookup`,
 `AW_Product_Subcategories_Lookup`, `AW_Returns`, `AW_Sales_2015-2017`, `AW_Territiries_Lookup`.
 There were also added a range of calculated columns and measures, created with DAX functions.
 
-The tables are related to one another (relation one-to-many 1:*). Please check
+The tables are related to one another (relation one-to-many `1:*`). Please check
 the relationship model screenshot below:
 
 ![This is an image](https://github.com/KaterIva/Adventure_Report_PBI/blob/master/AW_data_model.PNG?raw=true)
@@ -25,4 +25,9 @@ visuals representing total orders by customer name, gender, income level, occupa
 
 The filters are applied to all report pages, you can interact with content.
 
+                               (click to start demo)
+
 ![This is an image](https://github.com/KaterIva/Adventure_Report_PBI/blob/master/adventureWorksDemo.gif?raw=true)
+
+
+<sup>*Based on the course “Microsoft Power BI Desktop for Business Intelligence” by Maven Analytics, Chris Dutton*</sup>
